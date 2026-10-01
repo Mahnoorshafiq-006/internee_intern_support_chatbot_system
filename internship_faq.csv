@@ -1,0 +1,56 @@
+question,answer
+How do I submit my task?,"Open the task in your dashboard, go to the 'Submit Work' tab, add your GitHub repository link and your LinkedIn post link, then submit. Both links are necessary for a task to be submitted."
+Where can I find the task instructions?,"Open the task card in your dashboard and read the 'Guidelines' tab. It lists the objective, the data needed and the expected outcome."
+What is the deadline for my tasks?,The deadline is fixed. You must complete and submit all your tasks before it. The exact date is shown in your dashboard.
+How many tasks do I need to complete?,You need to complete and submit all the tasks assigned in your internship before the fixed deadline.
+Can I complete tasks in any order?,"First upload your candidate intro video. After that, make sure every task is completed and submitted before the fixed deadline."
+When will I get my internship certificate?,"Certificates are issued after your tasks are reviewed and approved, once your internship period is complete."
+Where will I receive my certificate?,You will be notified through your registered email and dashboard when your certificate is ready.
+What is the offer letter?,The offer letter is the official confirmation of your internship role. You can find it in your registered email or dashboard.
+Can I get a letter of recommendation?,Interns who complete their tasks with good quality can request a recommendation letter from the support team.
+What happens if I miss a deadline?,"The deadline is fixed, so all tasks must be submitted before it. Plan your time early, and contact the support team immediately if you face a problem."
+I could not finish my task on time. What should I do?,"The deadline is fixed, so try to submit your best working version before it. If something serious is blocking you, contact the support team as early as possible."
+Can I choose my own dataset?,"Yes. You can use any public dataset from Kaggle, Hugging Face or UCI as long as it fits the task description. Mention the source in your README."
+Where can I find datasets?,"Good sources are Kaggle, Hugging Face Datasets, the UCI Machine Learning Repository and Google Dataset Search."
+What programming language should I use?,Python is recommended for data science and AI tasks. Use the language and libraries that best fit your task.
+Which tools or platforms can I use?,"You can use Google Colab, Jupyter Notebook, VS Code or any editor you like. Make sure your code runs and is easy to follow."
+Do I need to upload my code to GitHub?,Yes. Upload your code to a public GitHub repository and submit its link along with your LinkedIn post link.
+What should my README contain?,"Include a project description, dataset source, installation steps, how to run the code, sample output and your results."
+Do I need to post on LinkedIn?,"Yes. A LinkedIn post about your task is required, and its link must be submitted together with your GitHub link."
+How do I make a demo video?,Record your screen while you run the project and explain what it does in 1 to 2 minutes. Share it in your LinkedIn post.
+How is my work evaluated?,"Reviewers check that the task objective is met, the code works, the code is clean and the documentation is clear."
+Can I work with a team?,"Tasks are individual. You may discuss ideas with others, but the work you submit must be your own."
+Can I reuse code from the internet?,"You can take inspiration from tutorials and documentation, but do not copy full projects. Write and understand your own code."
+Can I use AI tools like ChatGPT or Claude?,"You can use AI tools for learning and debugging, but you must understand your code and be able to explain it."
+Is the internship remote?,"Yes, the internship is done online. You work on your tasks from home at your own pace within the deadlines."
+How many hours should I work each day?,There are no fixed daily hours. Plan your time so that you can finish your tasks before the deadlines.
+How long is the internship?,The duration is mentioned in your offer letter and dashboard. Check them for your exact start and end dates.
+Is the internship paid?,"Please check your offer letter. If no stipend is mentioned, the internship is meant for learning, experience and a certificate."
+Can I extend my internship?,"The deadline is fixed, so please plan to finish all tasks before it. Contact the support team if you have a genuine problem."
+I cannot log in to my dashboard. What should I do?,"Try resetting your password first. If it still does not work, email the support team with your registered email address."
+I did not receive any email from the company.,"Check your spam or junk folder first. If it is not there, contact the support team with your registered email."
+My submission link is not working.,Make sure your GitHub repository is public and the link is correct. Then resubmit it from the 'Submit Work' tab.
+I submitted the wrong link. Can I change it?,"Yes. Open the task again, update the link in 'Submit Work' and submit again. If the option is disabled, contact support."
+I am getting an error in my code. Who can help?,"Read the error message carefully, search it online, and check the library documentation. If you are still stuck, ask your mentor or the community group."
+How can I learn the skills needed for my task?,"Use free resources such as official documentation, YouTube tutorials, Kaggle Learn and Hugging Face courses."
+How can I make my project stand out?,"Write clean code, explain your steps in the README, add visualizations and results, and include a short demo video."
+Can I add this internship to my resume?,Yes. You can list the internship and your completed projects on your resume and LinkedIn profile.
+Can I add the projects to my portfolio?,"Yes. Keep your repositories public and link them on your resume, LinkedIn and portfolio website."
+Will I get a job after the internship?,"The internship does not guarantee a job, but strong projects and a good certificate improve your chances of future opportunities."
+Who is my mentor?,"Your mentor details, if assigned, are shared in your dashboard or welcome email."
+Who do I contact for help?,Contact the support team through the email or community group given in your welcome message.
+Is there a community group for interns?,Yes. Interns are usually added to a community group where updates are shared and questions can be asked.
+How do I report a problem with a task?,"Send the support team the task name, a short description of the problem and a screenshot if possible."
+Can I withdraw from the internship?,Yes. Inform the support team in writing. Note that certificates are given only for completed work.
+Hello,"Hello! I am the internship support assistant. Ask me about tasks, submissions, deadlines or certificates."
+Hi,Hi there! How can I help you with your internship today?
+Thank you,You're welcome! Let me know if you have any other questions.
+Bye,Goodbye and good luck with your internship!
+Do I need to upload an intro video?,"Yes. Before starting your tasks, you must first upload a short candidate intro video where you introduce yourself."
+What is the candidate intro video?,"It is a short video where you introduce yourself: your name, your studies, your skills and why you joined the internship."
+When should I upload my intro video?,"Upload it first, before you submit any task."
+What links are required to submit a task?,Two links are necessary: your LinkedIn post link and your GitHub repository link.
+Which links do I submit?,Submit your GitHub repository link and the link of your LinkedIn post about the task.
+What are the rules of the internship?,"Upload your candidate intro video first, complete all your tasks, post about them on LinkedIn, submit your GitHub and LinkedIn links, and finish everything before the fixed deadline."
+Do I have to submit all tasks?,Yes. You must submit all the tasks of your internship before the fixed deadline.
+What do I need before submitting a task?,"You need a public GitHub repository with your code and a LinkedIn post about your work, plus your intro video uploaded earlier."
